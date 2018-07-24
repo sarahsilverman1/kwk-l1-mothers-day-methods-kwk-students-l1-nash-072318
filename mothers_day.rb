@@ -5,8 +5,5 @@ def mothers_day
 end
 mothers_day
 
-def moms_day (name = "Beyonce")
-  puts "Happy Mother's Day, #{name}!"
-end
-moms_day
+
 
